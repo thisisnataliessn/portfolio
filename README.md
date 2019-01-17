@@ -1,3 +1,3 @@
 # My Portfolio
 
-A showcase of my work from the Bloc program
+Currently a work in progress, this will showcase all of my design work.
