@@ -1,3 +1,3 @@
-# My Portfolio
+# My Portfolio Project
 
-Currently a work in progress, this will showcase all of my design work.
+This unfinished portfolio was a practice project to explore some frontend options.
